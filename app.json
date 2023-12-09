@@ -15,7 +15,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "be.rendez-vous.webview"
     },
     "android": {
       "adaptiveIcon": {
