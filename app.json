@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Rdv_WebView",
-    "slug": "Rdv_WebView",
+    "slug": "rdv-webview",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fc27a1ce-9d75-43a9-9b31-edaf92e3bcd5"
+      }
+    },
+    "owner": "bombh"
   }
 }
