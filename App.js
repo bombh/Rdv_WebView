@@ -13,6 +13,7 @@ export default function App() {
          //    'HTTP_X_REQUESTED_WITH': 'be.rendezvous',
          //  },
       }}
+      sharedCookiesEnabled={true}
     />
   );
 }
